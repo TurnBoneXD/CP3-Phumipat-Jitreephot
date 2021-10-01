@@ -1,3 +1,3 @@
-v = int(input("ระยะทาง : "))
+s = int(input("ระยะทาง : "))
 t = int(input("เวลา : "))
-print(int(v/t),"km/h")
+print(int(s/t),"km/h")
