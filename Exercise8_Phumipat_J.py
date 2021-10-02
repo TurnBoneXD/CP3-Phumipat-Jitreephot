@@ -27,6 +27,8 @@ if usernameInput  == "Turbo"  and passwordInput == "33628":
         print("Total Price >>",15*userSelectedAmount,"THB")
     else :
         print("We don't have that products")
-        
+else:
+    print("Wrong username or password")
+    print("Please try again")
       
 
