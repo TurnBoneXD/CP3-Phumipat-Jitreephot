@@ -1,3 +1,20 @@
+def login():
+    usernameInput = input("Username : ")
+    passwordInput = input("Password : ")
+    if usernameInput  == "Turbo"  and passwordInput == "33628":
+        return True
+    else:
+        return False
+def menuProduct():
+    pass
+def selectedProduct():
+    pass
+def priceCalculate():
+    pass
+
+login()
+
+'''
 usernameInput = input("Username : ")
 passwordInput = input("Password : ")
 if usernameInput  == "Turbo"  and passwordInput == "33628":
@@ -30,5 +47,5 @@ if usernameInput  == "Turbo"  and passwordInput == "33628":
 else:
     print("Wrong username or password")
     print("Please try again")
-      
+'''      
 
