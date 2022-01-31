@@ -18,3 +18,4 @@ button3 = Button(mainWindow,text = "ClickMe3",command = SayHelloWorld3).grid(row
 label = Label(mainWindow,text = "Hello World", width=20,fg="magenta",bg="#FFCC00",font=("Adobe Gothic Std B",16),anchor=E).grid(row=0,column=0)
 #anchor W = ซ้าย / E = ขวา
 mainWindow.mainloop()
+
