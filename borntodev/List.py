@@ -9,9 +9,14 @@ customerList = ["Turbo","Tan","Luck","Jeep"]
 print(customerList[1:2])
 '''
 
+'''
+myFriends = ["Alice", "Bob", "Trudy"]
+myFriends.append("Prame")
+print(myFriends)    
+'''
 
+'''
 fruits = ['apple', 'banana', 'cherry']
-
 x = fruits.count("cherry")
 print(x)
-
+'''

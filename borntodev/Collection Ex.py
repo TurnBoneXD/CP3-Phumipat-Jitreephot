@@ -11,7 +11,6 @@ def showBill():
 
 while True:
     menuName = input("Please enter menu : ")
-    print(systemMenu[menuName],"บาท")
     if menuName.lower() == "exit":
         break
     else:

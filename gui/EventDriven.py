@@ -13,7 +13,7 @@ def doubleClickButton(event):
     print("Double Click")
 
 main = Tk()
-button = Button(main, text = "My Button!!")
+button = Button(main, text = "My Button!!",height=100,width=100)
 button.pack()
 #https://www.python-course.eu/tkinter_events_binds.php
 button.bind('<Button-1>',leftClickButton) #1เม้าซ้าย 2เม้ากลาง 3เม้าขวา
