@@ -1,3 +1,4 @@
+
 class Vehicle:
     licenseCode = ""
     serialCode = ""
